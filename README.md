@@ -1,4 +1,4 @@
-# CodeAlpha IoT Internship - Task 4
+# CodeAlpha IoT Internship - Task 2
 
 ## Case Study: Future of IoT in Smart Cities
 
